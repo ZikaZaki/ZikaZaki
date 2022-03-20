@@ -173,9 +173,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📣 How about an Office quote before you go?
 
-> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Michael Scott</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
