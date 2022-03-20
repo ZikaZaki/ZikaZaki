@@ -18,7 +18,7 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 - 💡 Fun fact: I love playing video games, cooking, and coding
 - 🎹 Would love: To know how to play piano
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+<!-- Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/) -->
 
 ## ✍ Latest Blog Posts
 
