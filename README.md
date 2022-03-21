@@ -173,7 +173,7 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
 >
 > <p>- Kelly Kapoor</p>
 
