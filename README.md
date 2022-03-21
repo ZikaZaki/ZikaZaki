@@ -173,9 +173,9 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 
 ## 📣 How about an Office quote before you go?
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Michael Scott</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
