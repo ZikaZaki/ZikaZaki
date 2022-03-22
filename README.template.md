@@ -9,10 +9,10 @@
 
 I’m Zakariya, a full-stack software engineer, passionate programmer and a big admirer of open source who loves to contribute to any type of project. As a self-proclaimed coding-artist, I do believe that coding is a scientific discipline at a basic level, but is an art form at a more sublime level so, every programmer has his own way of writing code, and I do have my own unique touch.
 
-## More about me ❤!
+## More about me ❤
 
 - 📚 I’m currently working on ... Python & Django, OpenSource
-- 🔭 I’m currently learning ... Blockchain Development 
+- 🔭 I’m currently learning ... Blockchain Development
 - 🙋‍♂️ I’m looking to collaborate with others on OpenSource projects
 - ❔ Give it a try and ask me about anything in tech I bet I will answer 😊
 - 💡 Fun fact: I love playing video games, cooking, and coding
@@ -42,11 +42,11 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-cms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<!-- <br> -->
+<br>
 
-<!-- <a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+<a href="https://github.com/ZikaZaki/Django-Blog">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <!-- <br> -->
 
