@@ -171,7 +171,7 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 
 ## 📣 How about an Office quote before you go?
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
 > <p>- Michael Scott</p>
 
