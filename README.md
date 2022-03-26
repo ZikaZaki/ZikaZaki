@@ -171,7 +171,7 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 
 ## 📣 How about an Office quote before you go?
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 
