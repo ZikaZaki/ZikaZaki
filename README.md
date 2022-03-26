@@ -171,9 +171,9 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Pam Beesly</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
