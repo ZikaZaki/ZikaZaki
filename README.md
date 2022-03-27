@@ -171,9 +171,9 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
