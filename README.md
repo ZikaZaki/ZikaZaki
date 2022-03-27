@@ -105,9 +105,9 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
