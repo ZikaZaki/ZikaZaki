@@ -29,7 +29,7 @@ jobs:
           git config --global user.email "Your E-Mail"
           git commit -m "[Automated] README updated with new Office quote!"
       - name: Push
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,7 +39,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: zikazaki/dynamic-readme-workflow@main
+      - uses: zikazaki/dynamic-readme-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
           max_post_count: "4"
