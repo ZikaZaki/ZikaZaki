@@ -39,7 +39,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: zikazaki/dynamic-README-injection-workflow@main
+      - uses: zikazaki/dynamic-readme-workflow@main
         with:
           # Replace this URL with your rss feed URL/s
           max_post_count: "4"
