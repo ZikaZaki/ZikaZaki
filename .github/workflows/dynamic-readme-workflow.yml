@@ -1,18 +1,27 @@
 name: Dynamic README injection
+
 on:
-  schedule: # Run workflow automatically
-    # This will make it run every hour
-    - cron: "0 * * * *"
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
+  update-waka-readme:
+    name: Update this repo's Waka-README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
   get-office-quotes:
+    name: Update this repo's README with office-quotes
+    needs: update-waka-readme
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - name: Let the magic happen
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v1
         with:
           node-version: 14.6.0
 
@@ -39,7 +48,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: zikazaki/dynamic-readme-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
           max_post_count: "4"
