@@ -39,7 +39,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: zikazaki/dynamic-README-injection-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
-          feed_list: "https:/zikazaki.dev/rss/feed.xml"
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/zikazaki"
