@@ -20,30 +20,13 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 - 💡 Fun fact: I love playing video games, cooking, and coding
 - 🎹 Would love: To know how to play piano
 
+<br>
+
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
-<br>
-
-
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/ZikaZaki/Django-CMS">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-cms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ZikaZaki/Django-Blog">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
 
 📊 &nbsp;**This Week I Spent My Time On**
 
@@ -56,7 +39,6 @@ No coding activity tracked this week
 <!--END_SECTION:waka-->
 
 <br>
-<br>
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -64,6 +46,20 @@ No coding activity tracked this week
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZikaZaki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikaZaki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </p>
+
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/ZikaZaki/Django-CMS">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-cms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/Django-Blog">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <br>
 
