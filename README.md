@@ -5,9 +5,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zakariyaalkhamisisap)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/zikazaki)
 
-### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm <a href="#" target="_blank">Zakariya Al-Khamisi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m Zakariya, a full-stack software engineer, passionate programmer and a big admirer of open source who loves to contribute to any type of project. As a self-proclaimed coding-artist, I do believe that coding is a scientific discipline at a basic level, but is an art form at a more sublime level so, every programmer has his own way of writing code, and I do have my own unique touch.
+I am a full-stack software engineer, passionate programmer and a big admirer of open source who loves to contribute to any type of project. As a self-proclaimed coding-artist, I do believe that coding is a scientific discipline at a basic level, but is an art form at a more sublime level so, every programmer has his own way of writing code, and I do have my own unique touch.
+
+<img align="right" alt="GIF" src="https://github.com/ZikaZaki/ZikaZaki/assets/coding.gif?raw=true" width="408" height="318" />
 
 ## More about me ❤
 
@@ -19,9 +21,15 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 - 🎹 Would love: To know how to play piano
 
 ## ✍ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
+- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
+<!-- BLOG-POST-LIST:END --> 
 
 <br>
 <br>
+
+
 
 ## 📌 Pinned Repositories
 
@@ -38,23 +46,31 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 <br>
 <br>
 
+
+📊 &nbsp;**This Week I Spent My Time On**
+
+<!--START_SECTION:waka-->
+
+```text
+Python     1 hr 37 mins    ████████████████████▓░░░░   82.22 %
+YAML       19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
+<!--END_SECTION:waka-->
+
+<br>
+<br>
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
-<a href="https://github.com/ZikaZaki">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikazaki&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ZikaZaki">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=zikazaki&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ZikaZaki&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZikaZaki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="ZikaZaki's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikaZaki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+</p>
 
 <br>
 
@@ -105,7 +121,7 @@ I’m Zakariya, a full-stack software engineer, passionate programmer and a big 
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
 >
 > <p>- Jim Halpert</p>
 
@@ -114,3 +130,15 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 Check back at the top of the hour for a new quote!
 
 <br>
+
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
