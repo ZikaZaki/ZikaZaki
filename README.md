@@ -9,7 +9,7 @@
 
 I am a full-stack software engineer, passionate programmer and a big admirer of open source who loves to contribute to any type of project. As a self-proclaimed coding-artist, I do believe that coding is a scientific discipline at a basic level, but is an art form at a more sublime level so, every programmer has his own way of writing code, and I do have my own unique touch.
 
-<img align="right" alt="GIF" src="https://github.com/ZikaZaki/ZikaZaki/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="./assets/coding.gif?raw=true" width="408" height="318" />
 
 ## More about me ❤
 
@@ -20,16 +20,34 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 - 💡 Fun fact: I love playing video games, cooking, and coding
 - 🎹 Would love: To know how to play piano
 
+<br>
+
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
+
+📊 &nbsp;**This Week I Spent My Time On**
+
+<!--START_SECTION:waka-->
+
+```text
+No coding activity tracked this week
+```
+
+<!--END_SECTION:waka-->
+
 <br>
 
+## &#x1f4c8; My GitHub Stats
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZikaZaki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikaZaki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+</p>
+
+<br>
 
 ## 📌 Pinned Repositories
 
@@ -42,35 +60,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <a href="https://github.com/ZikaZaki/Django-Blog">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
-<br>
-
-
-📊 &nbsp;**This Week I Spent My Time On**
-
-<!--START_SECTION:waka-->
-
-```text
-Python     1 hr 37 mins    ████████████████████▓░░░░   82.22 %
-YAML       19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZikaZaki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="ZikaZaki's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikaZaki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
-</p>
 
 <br>
 
@@ -121,9 +110,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
+> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
 >
-> <p>- Jim Halpert</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
