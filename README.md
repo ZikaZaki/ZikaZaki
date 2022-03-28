@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END --> 
 
 📈 **My GitHub Stats:**
@@ -42,10 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 37 mins    ████████████████████▓░░░░   82.22 %
-YAML       19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -114,9 +109,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
