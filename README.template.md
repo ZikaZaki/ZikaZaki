@@ -58,12 +58,10 @@ No coding activity tracked this week
 <br>
 <br>
 
-## &#x1f4c8; GitHub Stats
-
-<br>
+## &#x1f4c8; My GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZikaZaki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="ZikaZaki's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZikaZaki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikaZaki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </p>
 
