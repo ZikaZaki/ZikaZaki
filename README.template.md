@@ -29,8 +29,8 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZikaZaki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikaZaki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZikaZaki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikaZaki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </p>
 
 <br>
@@ -45,6 +45,7 @@ No coding activity tracked this week
 
 <!--END_SECTION:waka-->
 
+<br>
 <br>
 
 ## 📌 Pinned Repositories
