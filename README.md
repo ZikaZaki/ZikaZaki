@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END --> 
 
 📈 **My GitHub Stats:**
@@ -42,11 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.18 %
-Markdown     2 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
-YAML         1 hr 29 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -115,9 +109,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
