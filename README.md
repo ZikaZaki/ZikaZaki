@@ -42,9 +42,9 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.07 %
-Markdown     2 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
-YAML         1 hr 29 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Python       4 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.00 %
+Markdown     2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
+YAML         1 hr 29 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
@@ -117,9 +117,9 @@ Batchfile    0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
