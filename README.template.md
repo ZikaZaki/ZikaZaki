@@ -55,6 +55,7 @@ No coding activity tracked this week
 <a href="https://github.com/ZikaZaki/Django-CMS">
   <img height="180em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-cms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
 <a href="https://github.com/ZikaZaki/Django-Blog">
   <img height="180em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
