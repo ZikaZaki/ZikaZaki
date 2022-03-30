@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.07 %
-Markdown     2 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
-YAML         1 hr 29 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -117,9 +110,9 @@ Batchfile    0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> Did I stutter?
 >
-> <p>- Andy Bernard</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
