@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,10 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python                     12 hrs 47 mins  ██████████████████▒░░░░░░   72.98 %
-Markdown                   2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-YAML                       1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Other                      57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -116,9 +111,9 @@ Other                      57 mins         █▒░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> Did I stutter?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
