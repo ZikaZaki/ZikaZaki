@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,10 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python                     11 hrs 9 mins   ██████████████████░░░░░░░   71.81 %
-Markdown                   2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-YAML                       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Other                      57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -116,7 +111,7 @@ Other                      57 mins         █▓░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
 > <p>- Andy Bernard</p>
 
