@@ -40,7 +40,11 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-No coding activity tracked this week
+Python       9 hrs 2 mins    ████████████████████████▒   97.09 %
+YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
