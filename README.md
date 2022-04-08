@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,8 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python                     12 hrs 23 mins  ██████████████████████▓░░   90.08 %
-Other                      57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -114,9 +111,9 @@ Other                      57 mins         █▓░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
