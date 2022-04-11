@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,9 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 43 mins   ███████████████████████▒░   93.10 %
-YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
