@@ -42,8 +42,10 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python                     11 hrs 13 mins  ██████████████████████▒░░   89.66 %
-Other                      57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Python       5 hrs 59 mins   ██████████████████████▒░░   88.96 %
+JavaScript   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
@@ -114,9 +116,9 @@ Other                      57 mins         ██░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
 >
-> <p>- Angela Martin</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
