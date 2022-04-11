@@ -132,4 +132,5 @@ Check back at the top of the hour for a new quote!
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
 ```
+
 <br>
