@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,11 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 28 mins   ████████████████████▓░░░░   82.90 %
-JavaScript   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Text         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Markdown     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -59,11 +53,11 @@ Other        5 mins          ▒░░░░░░░░░░░░░░░░
 <p>
 
 <a href="https://github.com/ZikaZaki/Django-CMS">
-  <img height="180em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-cms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-cms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/ZikaZaki/Django-Blog">
-  <img height="180em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 </p>
@@ -117,9 +111,9 @@ Other        5 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
