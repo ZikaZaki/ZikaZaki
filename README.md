@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,11 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 23 mins   █████████████████████▒░░░   84.98 %
-JavaScript   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Text         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Markdown     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -117,9 +111,9 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
