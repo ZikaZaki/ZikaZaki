@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,11 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python       7 hrs 14 mins   █████████████████████░░░░   83.43 %
-Markdown     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Text         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-JavaScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -117,9 +111,9 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
+> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
