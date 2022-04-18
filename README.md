@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 35 mins   ████████████████████▓░░░░   82.97 %
-Markdown     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Text         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-JavaScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -118,9 +111,9 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
