@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Python     3 hrs 50 mins   ██████████████████████▓░░   90.53 %
-Markdown   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-HTML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Text       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -118,9 +111,9 @@ Other      1 min           ░░░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Pam Beesly</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
