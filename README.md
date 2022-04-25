@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,10 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Markdown           9 mins          ███████████░░░░░░░░░░░░░░   43.89 %
-Python             8 mins          █████████▓░░░░░░░░░░░░░░░   39.22 %
-reStructuredText   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Other              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -116,9 +111,9 @@ Other              0 secs          ▒░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
 >
-> <p>- Angela Martin</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
