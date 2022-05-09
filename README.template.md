@@ -109,18 +109,6 @@ No coding activity tracked this week
 
 <br>
 
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
@@ -132,5 +120,17 @@ Check back at the top of the hour for a new quote!
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
 ```
+
+<br>
+
+## 📣 How about an Office quote before you go?
+
+> {office_quote}
+>
+> <p>{office_character}</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
+
+Check back at the top of the hour for a new quote!
 
 <br>
