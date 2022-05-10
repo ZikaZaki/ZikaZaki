@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,7 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -111,18 +109,6 @@ No activity tracked
 
 <br>
 
-## 📣 How about an Office quote before you go?
-
-> I. Declare. Bankruptcy!
->
-> <p>- Michael Scott</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
@@ -134,5 +120,17 @@ Check back at the top of the hour for a new quote!
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
 ```
+
+<br>
+
+## 📣 How about an Office quote before you go?
+
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
+>
+> <p>- Darryl Philbin</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
+
+Check back at the top of the hour for a new quote!
 
 <br>
