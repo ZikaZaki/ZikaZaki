@@ -24,8 +24,6 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,7 +40,7 @@ I am a full-stack software engineer, passionate programmer and a big admirer of 
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   0 secs          █████████████████████████   100.00 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -127,9 +125,9 @@ Markdown   0 secs          █████████████████�
 
 ## 📣 How about an Office quote before you go?
 
-> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
 >
-> <p>- Michael Scott</p>
+> <p>- Darryl Philbin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
