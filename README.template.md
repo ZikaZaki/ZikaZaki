@@ -7,7 +7,7 @@
 
 ### Hi there, I'm <a href="#" target="_blank">Zakariya Al-Khamisi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a full-stack software engineer, passionate programmer and a big admirer of open source who loves to contribute to any type of project. As a self-proclaimed coding-artist, I do believe that coding is a scientific discipline at a basic level, but is an art form at a more sublime level so, every programmer has his own way of writing code, and I do have my own unique touch.
+I am a **Full-Stack Software Developer**, passionate programmer and a big admirer of open source who loves to contribute to any type of project. As a self-proclaimed coding-artist, I do believe that coding is a scientific discipline at a basic level, but is an art form at a more sublime level so, every programmer has his own way of writing code, and I do have my own unique touch.
 
 <img align="right" alt="GIF" src="./assets/coding.gif?raw=true" width="408" height="318" />
 
