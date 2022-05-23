@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 7 mins     ███████████░░░░░░░░░░░░░░   43.96 %
-Markdown     49 mins         ████████░░░░░░░░░░░░░░░░░   31.94 %
-Python       26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
-Text         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +125,9 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Michael Scott</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
