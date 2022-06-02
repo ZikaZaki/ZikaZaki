@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-HTML              2 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.76 %
-Python            1 hr 38 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-JavaScript        45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-CSS               37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-Markdown          23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Other             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +125,9 @@ Other             14 mins         █░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
