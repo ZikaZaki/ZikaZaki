@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-HTML              3 hrs 20 mins   ███████████▒░░░░░░░░░░░░░   44.70 %
-Python            1 hr 38 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
-CSS               58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-JavaScript        45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-Markdown          26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Other             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +125,9 @@ Other             14 mins         ▓░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Andy Bernard</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
