@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,8 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-Python            2 hrs 35 mins   █████████████████▓░░░░░░░   70.57 %
-Other             34 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -128,9 +125,9 @@ Other             34 mins         ████░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
