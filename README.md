@@ -42,7 +42,8 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-No coding activity tracked this week
+Python            2 hrs 31 mins   █████████████████▓░░░░░░░   70.03 %
+Other             34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
 ```
 
 <!--END_SECTION:waka-->
