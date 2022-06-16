@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,8 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-Python            2 hrs 31 mins   █████████████████▓░░░░░░░   70.03 %
-Other             34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -128,9 +125,9 @@ Other             34 mins         ████░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
