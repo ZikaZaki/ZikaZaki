@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,9 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 9 mins     █████████████████░░░░░░░░   67.80 %
-HTML         22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-Other        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -129,9 +125,9 @@ Other        8 mins          ██░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Andy Bernard</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
