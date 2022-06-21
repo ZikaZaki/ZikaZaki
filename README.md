@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-HTML         6 hrs 1 min     ███████████████░░░░░░░░░░   59.91 %
-Python       2 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
-Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-JavaScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-XML          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +125,9 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Erin Hannon</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
