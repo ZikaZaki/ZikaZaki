@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,10 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-HTML         9 hrs 40 mins   █████████████████▓░░░░░░░   71.33 %
-Python       2 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
-Markdown     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -130,9 +125,9 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Erin Hannon</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
