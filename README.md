@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,11 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-HTML         7 hrs           ██████████████████░░░░░░░   71.95 %
-Python       2 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 %
-XML          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -131,9 +125,9 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> I. Declare. Bankruptcy!
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
