@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,10 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-CSS          9 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   46.80 %
-HTML         5 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
-Markdown     1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-Other        1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -130,9 +125,9 @@ Other        1 hr 13 mins    █▓░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
