@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,10 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-CSS          10 hrs 38 mins  ████████████▓░░░░░░░░░░░░   50.73 %
-HTML         5 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
-Markdown     1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Other        1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -130,7 +125,7 @@ Other        1 hr 13 mins    █▒░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
 >
 > <p>- Michael Scott</p>
 
