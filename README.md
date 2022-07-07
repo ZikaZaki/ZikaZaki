@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,10 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-CSS          21 hrs 32 mins  ████████████████░░░░░░░░░   63.39 %
-HTML         8 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
-Markdown     1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Other        1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -130,9 +125,9 @@ Other        1 hr 10 mins    █░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
