@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-CSS          20 hrs 38 mins  █████████████████▒░░░░░░░   69.91 %
-HTML         7 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
-Python       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Text         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +125,9 @@ Text         6 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
