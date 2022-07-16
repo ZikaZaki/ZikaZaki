@@ -42,7 +42,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-No coding activity tracked this week
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
