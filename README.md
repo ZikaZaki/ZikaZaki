@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,10 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-CSS        43 mins         ██████████░░░░░░░░░░░░░░░   39.64 %
-HTML       43 mins         █████████▓░░░░░░░░░░░░░░░   39.26 %
-Python     12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Markdown   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -130,9 +125,9 @@ Markdown   10 mins         ██▒░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
 >
-> <p>- Pam Beesly</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
