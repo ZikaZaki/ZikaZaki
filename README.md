@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-HTML         3 hrs 55 mins   █████████████▓░░░░░░░░░░░   54.03 %
-CSS          1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-JavaScript   1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +125,9 @@ Text         3 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Kevin Malone</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
