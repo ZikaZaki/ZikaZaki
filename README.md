@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-HTML         4 hrs 43 mins   ███████████▓░░░░░░░░░░░░░   46.02 %
-CSS          3 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.71 %
-JavaScript   1 hr 58 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-Git Config   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +125,9 @@ Text         3 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> I feel God in this Chili’s tonight.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
