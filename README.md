@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-CSS          6 hrs 37 mins   ██████████░░░░░░░░░░░░░░░   39.37 %
-HTML         5 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   32.34 %
-JavaScript   4 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-Git Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +125,9 @@ Text         3 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Pam Beesly</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
