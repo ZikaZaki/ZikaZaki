@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 hrs 53 mins  ██████████████░░░░░░░░░░░   55.86 %
-CSS          7 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.52 %
-HTML         2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Markdown     45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +125,9 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Creed Bratton</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
