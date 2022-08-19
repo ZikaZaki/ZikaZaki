@@ -1,6 +1,6 @@
 [![ZikaZaki's GitHub Banner](./assets/GitHubBanner.png)](https://github.com/zikazaki/zikazaki)
 
-[![Visits Badge](https://badges.pufler.dev/visits/zikazaki/zikazaki)](https://github.com/zikazaki)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ZikaZaki)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zakariyaalkhamisisap)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/zikazaki)
@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,11 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   22 hrs 33 mins  █████████████████▒░░░░░░░   69.08 %
-CSS          6 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-HTML         2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-JSON         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -65,6 +59,15 @@ Other        5 mins          ░░░░░░░░░░░░░░░░░
 <a href="https://github.com/ZikaZaki/Django-Blog">
   <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+<a href="https://github.com/ZikaZaki/todo-list">
+  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=Todo-List&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/awesome-books">
+  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=awesome-books&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 
 </p>
 
@@ -131,9 +134,9 @@ Other        5 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> I feel God in this Chili’s tonight.
 >
-> <p>- Kevin Malone</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
