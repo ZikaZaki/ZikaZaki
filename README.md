@@ -42,12 +42,11 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 7 mins     ███████████░░░░░░░░░░░░░░   44.37 %
-Markdown     53 mins         ████████▓░░░░░░░░░░░░░░░░   34.84 %
-Python       26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JavaScript   22 hrs 33 mins  █████████████████▒░░░░░░░   69.08 %
+CSS          6 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.54 %
+HTML         2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+JSON         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
@@ -132,9 +131,9 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
