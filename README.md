@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   18 hrs 36 mins  ████████████████▓░░░░░░░░   66.12 %
-CSS          6 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
-HTML         1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Markdown     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -141,9 +134,9 @@ Git Config   8 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Pam Beesly</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
