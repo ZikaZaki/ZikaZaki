@@ -42,12 +42,12 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   28 hrs 25 mins  ████████████████▓░░░░░░░░   67.15 %
-CSS          6 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-HTML         4 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-JSON         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Markdown     57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Git Config   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JavaScript   26 hrs 13 mins  █████████████████▒░░░░░░░   69.16 %
+CSS          4 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+HTML         4 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+JSON         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Markdown     59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Git Config   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
