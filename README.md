@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   26 hrs 13 mins  █████████████████▒░░░░░░░   69.16 %
-CSS          4 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-HTML         4 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-JSON         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Markdown     59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Git Config   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -141,9 +134,9 @@ Git Config   12 mins         ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
