@@ -42,7 +42,12 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-No coding activity tracked this week
+JavaScript   14 hrs 2 mins   █████████████████████░░░░   84.29 %
+HTML         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+CSS          52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Markdown     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
