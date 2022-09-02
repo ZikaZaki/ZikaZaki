@@ -24,8 +24,6 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,12 +40,7 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 41 mins   █████████████████████░░░░   83.48 %
-Markdown     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-HTML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -141,9 +134,9 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Kevin Malone</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
