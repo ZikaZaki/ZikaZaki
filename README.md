@@ -11,7 +11,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ---
 
-<img style="float: right;" alt="GIF" src="./assets/coding.gif?raw=true" width="476" height="288" />
+<img align="right" style="float: right;" alt="GIF" src="./assets/coding.gif?raw=true" width="476" height="288" />
 
 ## More about me ❤
 
@@ -28,8 +28,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -46,12 +44,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.43 %
-PowerShell   1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   32.79 %
-Markdown     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -148,9 +141,9 @@ Lua          0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
+> Everybody stay calm! Stay f*&#!#% calm!
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
