@@ -42,11 +42,12 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 11 mins    ████████████████▒░░░░░░░░   65.01 %
-Markdown     21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-PowerShell   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   2 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.43 %
+PowerShell   1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   32.79 %
+Markdown     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
@@ -57,10 +58,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ## 📌 Pinned Repositories
 
 <p>
-
-<a href="https://github.com/ZikaZaki/Django-CMS">
-  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-cms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <a href="https://github.com/ZikaZaki/Django-Blog">
   <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -74,6 +71,17 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
   <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=awesome-books&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/ZikaZaki/first-capstone-conference">
+  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=first-capstone-conference&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/zikazaki-folio">
+  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=zikazaki-folio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/Python-OPP">
+  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=Python-OPP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 </p>
 
@@ -140,9 +148,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Dwight, you ignorant slut!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
