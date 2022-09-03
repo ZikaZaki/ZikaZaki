@@ -15,11 +15,11 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## More about me ❤ 
 
-- 📚 I’m currently working on ... Python & Django, OpenSource Projects
-- 🔭 I’m currently learning ... React, Ruby, & Blockchain Development
+- 📚 I’m currently working on Python & Django, OpenSource Projects
+- 🔭 I’m currently learning React, Ruby, & Blockchain Development
 - 🙋‍♂️ I’m looking to collaborate & contribute to OpenSource projects
-- ❔ Give it a try and ask me about anything in tech I bet I will answer 😊
-- 💡 Fun fact: I love playing video games, cooking, and coding
+- ❔ Give it a try & ask me about anything in tech I bet I will answer 😊
+- 💡 Fun fact: I love playing video games, cooking, & coding
 - 🎹 Would love: To know how to play piano
 - 📫 How to reach me: [Email](mailto:ziiikoooo2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zakariyaalkhamisisap) | [Twitter](https://twitter.com/ZikaZaki)
  
