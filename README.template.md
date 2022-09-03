@@ -11,7 +11,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ---
 
-<img style="float: right;" alt="GIF" src="./assets/coding.gif?raw=true" width="476" height="288" />
+<img align="right" style="float: right;" alt="GIF" src="./assets/coding.gif?raw=true" width="476" height="288" />
 
 ## More about me ❤
 
