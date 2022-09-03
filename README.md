@@ -7,9 +7,11 @@
 
 ### Hi there, I'm <a href="#" target="_blank">Zakariya Al-Khamisi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a **Full-Stack Software Developer**, passionate programmer and a big admirer of open source who loves to contribute to any type of project. As a self-proclaimed coding-artist, I do believe that coding is a scientific discipline at a basic level, but is an art form at a more sublime level, so every programmer has his own way of writing code, and I do have my own unique touch.
+I am a **Full-Stack Developer**, passionate programmer and a big admirer of open source who loves to contribute to any type of project. As a self-proclaimed coding-artist, I do believe that coding is a scientific discipline at a basic level, but is an art form at a more sublime level, so every programmer has his own way of writing code, and I do have my own unique touch.
 
-<img align="right" alt="GIF" src="./assets/coding.gif?raw=true" width="476" height="288" />
+---
+
+<img style="float: right;" alt="GIF" src="./assets/coding.gif?raw=true" width="476" height="288" />
 
 ## More about me ❤
 
@@ -19,13 +21,13 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 - ❔ Give it a try and ask me about anything in tech I bet I will answer 😊
 - 💡 Fun fact: I love playing video games, cooking, and coding
 - 🎹 Would love: To know how to play piano
-
-<br>
+- 📫 How to reach me: [Email](mailto:ziiikoooo2000@gmail.com)
+ | [LinkedIn](https://www.linkedin.com/in/zakariyaalkhamisisap) | [Twitter](https://twitter.com/ZikaZaki)
+ 
+----
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -42,48 +44,10 @@ I am a **Full-Stack Software Developer**, passionate programmer and a big admire
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.43 %
-PowerShell   1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   32.79 %
-Markdown     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
-
-<br>
-<br>
-
-## 📌 Pinned Repositories
-
-<p>
-
-<a href="https://github.com/ZikaZaki/Django-Blog">
-  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ZikaZaki/todo-list">
-  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=Todo-List&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ZikaZaki/awesome-books">
-  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=awesome-books&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ZikaZaki/first-capstone-conference">
-  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=first-capstone-conference&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ZikaZaki/zikazaki-folio">
-  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=zikazaki-folio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ZikaZaki/Python-OPP">
-  <img height="180em" width="360em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=Python-OPP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-</p>
 
 <br>
 
@@ -108,17 +72,6 @@ Lua          0 secs          ░░░░░░░░░░░░░░░░░
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-
-<br>
-
-![Selenium](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
-![PyTest](https://img.shields.io/badge/Test-PyTest-informational?style=flat&logo=PyTest&logoColor=white&color=4AB197)
-
-<br>
-
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![Jenkins](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![NGINX](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
@@ -128,7 +81,47 @@ Lua          0 secs          ░░░░░░░░░░░░░░░░░
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![GitLab](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
+![Selenium](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
+![PyTest](https://img.shields.io/badge/Test-PyTest-informational?style=flat&logo=PyTest&logoColor=white&color=4AB197)
+![Jest](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=white&color=4AB197)
+
+![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![Tailwind](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+
 </details>
+
+<br>
+
+## 📌 Pinned Repositories
+
+<p>
+
+<a href="https://github.com/ZikaZaki/Django-Blog">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/todo-list">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=Todo-List&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/awesome-books">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=awesome-books&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/first-capstone-conference">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=first-capstone-conference&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/zikazaki-folio">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=zikazaki-folio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/Python-OPP">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=Python-OPP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+</p>
 
 <br>
 
@@ -148,9 +141,9 @@ Lua          0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
