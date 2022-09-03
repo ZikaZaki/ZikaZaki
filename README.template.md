@@ -13,16 +13,16 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 <img align="right" style="float: right;" alt="GIF" src="./assets/coding.gif?raw=true" width="476" height="288" />
 
-## More about me ❤
+<br>
+## More about me ❤ 
 
-- 📚 I’m currently working on ... Python & Django, OpenSource
-- 🔭 I’m currently learning ... Blockchain Development
-- 🙋‍♂️ I’m looking to collaborate with others on OpenSource projects
+- 📚 I’m currently working on ... Python & Django, OpenSource Projects
+- 🔭 I’m currently learning ... React, Ruby, & Blockchain Development
+- 🙋‍♂️ I’m looking to collaborate & contribute to OpenSource projects
 - ❔ Give it a try and ask me about anything in tech I bet I will answer 😊
 - 💡 Fun fact: I love playing video games, cooking, and coding
 - 🎹 Would love: To know how to play piano
-- 📫 How to reach me: [Email](mailto:ziiikoooo2000@gmail.com)
- | [LinkedIn](https://www.linkedin.com/in/zakariyaalkhamisisap) | [Twitter](https://twitter.com/ZikaZaki)
+- 📫 How to reach me: [Email](mailto:ziiikoooo2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zakariyaalkhamisisap) | [Twitter](https://twitter.com/ZikaZaki)
  
 ----
 
