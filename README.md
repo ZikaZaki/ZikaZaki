@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 53 mins   ████████████████░░░░░░░░░   64.30 %
-PowerShell   1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
-Markdown     1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-JSON         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Text         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
 >
-> <p>- Ryan Howard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
