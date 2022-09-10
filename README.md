@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 56 mins   █████████████▒░░░░░░░░░░░   53.24 %
-CSS          2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-Markdown     1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-PowerShell   1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-HTML         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-JSON         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ JSON         1 hr 3 mins     █▓░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Toby Flenderson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
