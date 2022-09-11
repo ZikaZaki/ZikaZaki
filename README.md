@@ -45,12 +45,12 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 56 mins   █████████████▒░░░░░░░░░░░   53.24 %
-CSS          2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-Markdown     1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-PowerShell   1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-HTML         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-JSON         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+JavaScript   7 hrs 54 mins   █████████████▓░░░░░░░░░░░   55.10 %
+CSS          2 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Markdown     1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+HTML         1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+JSON         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Text         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
