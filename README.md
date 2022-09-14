@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 12 mins   ███████████░░░░░░░░░░░░░░   43.39 %
-CSS          1 hr 59 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
-HTML         1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-JSON         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Text         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
