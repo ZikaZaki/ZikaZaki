@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   39.71 %
-CSS          2 hrs           ███████░░░░░░░░░░░░░░░░░░   28.33 %
-HTML         1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-JSON         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Text         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Markdown     10 mins         ▓░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> Did I stutter?
 >
-> <p>- Angela Martin</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
