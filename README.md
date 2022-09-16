@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-CSS          3 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   40.00 %
-JavaScript   2 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   31.62 %
-HTML         1 hr 36 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
-JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Other        3 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
