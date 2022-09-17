@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,10 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-CSS                        7 hrs 15 mins   █████████████▒░░░░░░░░░░░   52.75 %
-JavaScript                 3 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.17 %
-HTML                       2 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-Other                      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -145,9 +140,9 @@ Other                      29 mins         █░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Darryl Philbin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
