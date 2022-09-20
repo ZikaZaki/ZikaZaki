@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,11 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-CSS                        16 hrs 2 mins   ███████████░░░░░░░░░░░░░░   44.27 %
-JavaScript                 13 hrs 29 mins  █████████▒░░░░░░░░░░░░░░░   37.25 %
-HTML                       4 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Markdown                   1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Other                      29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -146,9 +140,9 @@ Other                      29 mins         ▒░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
