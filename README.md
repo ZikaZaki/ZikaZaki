@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,11 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-CSS                        16 hrs 28 mins  ██████████▒░░░░░░░░░░░░░░   41.96 %
-JavaScript                 15 hrs 26 mins  █████████▓░░░░░░░░░░░░░░░   39.29 %
-HTML                       4 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Markdown                   1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Other                      32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -146,9 +140,9 @@ Other                      32 mins         ▒░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
-> <p>- Angela Martin</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
