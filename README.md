@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,9 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   18 hrs 31 mins  █████████████████████▓░░░   86.96 %
-CSS          1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -144,9 +140,9 @@ Other        44 mins         █░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
