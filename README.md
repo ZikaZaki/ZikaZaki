@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,10 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   18 hrs 6 mins   ████████████████████▓░░░░   82.91 %
-CSS          2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -145,9 +140,9 @@ Other        17 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Toby Flenderson</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
