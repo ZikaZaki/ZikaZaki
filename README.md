@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,11 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   14 hrs 45 mins  ██████████████████▓░░░░░░   74.30 %
-CSS          3 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-JSON         44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -146,9 +140,9 @@ Other        17 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
