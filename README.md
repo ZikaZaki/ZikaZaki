@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,11 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 hrs 25 mins  ███████████████████░░░░░░   76.56 %
-CSS          2 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-JSON         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -146,7 +140,7 @@ Other        17 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
 > <p>- Angela Martin</p>
 
