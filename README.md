@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,11 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   15 hrs 29 mins  ███████████████████▒░░░░░   77.30 %
-CSS          3 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Markdown     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -146,7 +140,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> I feel God in this Chili’s tonight.
 >
 > <p>- Pam Beesly</p>
 
