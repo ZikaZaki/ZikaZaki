@@ -1,4 +1,4 @@
-[![ZikaZaki's GitHub Banner](./assets/GitHubBanner.png)](https://github.com/zikazaki/zikazaki)
+[![ZikaZaki's GitHub Banner](./assets/LinkedInCover.png)](https://github.com/zikazaki/zikazaki)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ZikaZaki)
