@@ -15,11 +15,11 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## More about me ❤ 
 
-- 📚 I’m currently working on ... Python & Django, OpenSource Projects
-- 🔭 I’m currently learning ... React, Ruby, & Blockchain Development
+- 📚 I’m currently working on Python & Django, OpenSource Projects
+- 🔭 I’m currently learning React, Ruby, & Blockchain Development
 - 🙋‍♂️ I’m looking to collaborate & contribute to OpenSource projects
-- ❔ Give it a try and ask me about anything in tech I bet I will answer 😊
-- 💡 Fun fact: I love playing video games, cooking, and coding
+- ❔ Give it a try & ask me about anything in tech I bet I will answer 😊
+- 💡 Fun fact: I love playing video games, cooking, & coding
 - 🎹 Would love: To know how to play piano
 - 📫 How to reach me: [Email](mailto:ziiikoooo2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zakariyaalkhamisisap) | [Twitter](https://twitter.com/ZikaZaki)
  
@@ -45,12 +45,12 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.43 %
-PowerShell   1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   32.79 %
-Markdown     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JavaScript   17 hrs 53 mins  ████████████████░░░░░░░░░   63.36 %
+CSS          6 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Markdown     2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+JSON         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +147,9 @@ Lua          0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
 >
-> <p>- Toby Flenderson</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
