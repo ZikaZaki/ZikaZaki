@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   15 hrs 17 mins  █████████████████▒░░░░░░░   69.77 %
-CSS          3 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Markdown     2 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-JSON         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ HTML         1 min           ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Michael Scott</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
