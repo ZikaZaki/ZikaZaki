@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 24 mins  ██████████████████▒░░░░░░   73.47 %
-Markdown     1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-CSS          1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ HTML         1 min           ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
