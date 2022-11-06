@@ -45,8 +45,10 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-SQL        1 hr 51 mins    ███████████████████████▒░   92.76 %
-Markdown   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+SQL        6 hrs 56 mins   ███████████████████████▓░   95.04 %
+systemd    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
