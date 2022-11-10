@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,11 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-SQL        6 hrs 59 mins   ████████████████████░░░░░   80.51 %
-Python     1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-systemd    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -146,9 +140,9 @@ Other      5 mins          ▒░░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> I. Declare. Bankruptcy!
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
