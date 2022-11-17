@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-SQL          1 hr 56 mins    ████████▒░░░░░░░░░░░░░░░░   33.32 %
-Ruby         1 hr 38 mins    ███████░░░░░░░░░░░░░░░░░░   28.24 %
-JavaScript   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Python       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-YAML         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Markdown     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Markdown     21 mins         █▓░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
 >
-> <p>- Michael Scott</p>
+> <p>- Darryl Philbin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
