@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         5 hrs 21 mins   ███████████████░░░░░░░░░░   59.49 %
-SQL          1 hr 29 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-JavaScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Python       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-YAML         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Markdown     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Markdown     18 mins         █░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
