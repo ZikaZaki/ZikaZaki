@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby               6 hrs 3 mins    ███████████████░░░░░░░░░░   60.22 %
-Python             1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-SQL                45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-JavaScript         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-YAML               23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Markdown           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Markdown           16 mins         ▓░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
