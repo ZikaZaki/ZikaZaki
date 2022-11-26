@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby               12 hrs 30 mins  ███████████████████▒░░░░░   76.77 %
-JavaScript         1 hr 46 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-Python             1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-JSON               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Markdown           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-YAML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ YAML               3 mins          ░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Oscar Martinez</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
