@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby       18 hrs 57 mins  ███████████████████████▒░   93.07 %
-SQL        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-JSON       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Markdown   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Kevin Malone</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
