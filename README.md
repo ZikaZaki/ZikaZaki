@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby       18 hrs 23 mins  ███████████████████████▒░   92.87 %
-SQL        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-JSON       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Markdown   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Pam Beesly</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
