@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         4 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.68 %
-ERB          2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.93 %
-YAML         41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-JavaScript   39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Markdown     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Pam Beesly</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
