@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,10 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-ERB     7 hrs 18 mins   █████████████████▓░░░░░░░   70.19 %
-Ruby    3 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.25 %
-YAML    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
