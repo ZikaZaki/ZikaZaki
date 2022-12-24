@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-ERB          5 hrs 32 mins   ██████████████░░░░░░░░░░░   56.12 %
-Ruby         2 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   29.11 %
-JSON         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-XML          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ YAML         8 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
 >
-> <p>- Pam Beesly</p>
+> <p>- Darryl Philbin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
