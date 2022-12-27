@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         2 hrs 23 mins   ███████████▓░░░░░░░░░░░░░   46.76 %
-JSON         1 hr 47 mins    ████████▓░░░░░░░░░░░░░░░░   34.87 %
-Markdown     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-XML          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-ERB          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ YAML         6 mins          ▓░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
