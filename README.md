@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,11 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         3 hrs 48 mins   ████████████████░░░░░░░░░   63.93 %
-JSON         1 hr 39 mins    ███████░░░░░░░░░░░░░░░░░░   27.81 %
-YAML         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -146,9 +140,9 @@ Other        3 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Pam Beesly</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
