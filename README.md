@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,10 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         1 hr 23 mins    ███████████████████░░░░░░   75.68 %
-JavaScript   24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -145,9 +140,9 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
