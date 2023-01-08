@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,11 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         7 hrs 51 mins   ███████████████████░░░░░░   75.81 %
-ERB          2 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -146,9 +140,9 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
