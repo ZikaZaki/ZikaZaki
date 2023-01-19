@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-ERB           18 hrs 47 mins  ███████████▓░░░░░░░░░░░░░   47.30 %
-Ruby          12 hrs 42 mins  ████████░░░░░░░░░░░░░░░░░   31.99 %
-HTML          2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-SCSS          2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Markdown      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Other         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Other         48 mins         ▓░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
