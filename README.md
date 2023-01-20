@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-ERB           18 hrs 52 mins  ███████████▒░░░░░░░░░░░░░   45.06 %
-Ruby          12 hrs 41 mins  ███████▓░░░░░░░░░░░░░░░░░   30.30 %
-HTML          3 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-SCSS          1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Markdown      1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Other         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Other         1 hr 2 mins     ▓░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
