@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-ERB           15 hrs 33 mins  █████████▓░░░░░░░░░░░░░░░   38.04 %
-Ruby          11 hrs 10 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
-HTML          4 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-CSS           2 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Markdown      1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-JavaScript    1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,7 +140,7 @@ JavaScript    1 hr 29 mins    █░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
 > <p>- Pam Beesly</p>
 
