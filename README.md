@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-ERB           16 hrs 31 mins  ██████████▒░░░░░░░░░░░░░░   41.36 %
-Ruby          8 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
-HTML          5 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-CSS           3 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-JavaScript    1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Markdown      1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Markdown      1 hr 25 mins    █░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Pam Beesly</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
