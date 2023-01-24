@@ -45,7 +45,12 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-No coding activity tracked this week
+ERB           20 hrs 37 mins  ██████████▒░░░░░░░░░░░░░░   41.45 %
+Ruby          9 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+HTML          5 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+CSS           3 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+JavaScript    3 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Other         2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
