@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-ERB           22 hrs 2 mins   ███████████▓░░░░░░░░░░░░░   46.13 %
-Ruby          10 hrs 27 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
-HTML          5 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-CSS           3 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-JavaScript    1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Markdown      1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ Markdown      1 hr 26 mins    ▓░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
+> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
 >
-> <p>- Andy Bernard</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
