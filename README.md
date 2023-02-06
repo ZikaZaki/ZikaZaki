@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,10 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 hrs 31 mins  ████████████████████▓░░░░   83.06 %
-Ruby         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-JSON         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -145,9 +140,9 @@ Other        38 mins         ▓░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
+> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
