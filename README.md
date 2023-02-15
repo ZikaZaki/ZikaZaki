@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,11 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   36 hrs 35 mins  ██████████████████████▓░░   90.72 %
-Ruby         2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-XML          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-CSS          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -146,9 +140,9 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> I. Declare. Bankruptcy!
 >
-> <p>- Ryan Howard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
