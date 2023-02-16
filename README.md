@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   38 hrs 47 mins  ███████████████████████▒░   93.92 %
-Ruby         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-XML          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-CSS          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,7 +140,7 @@ HTML         5 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
 > <p>- Michael Scott</p>
 
