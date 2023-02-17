@@ -27,8 +27,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -45,12 +43,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   38 hrs 51 mins  ██████████████████████▓░░   91.27 %
-Ruby         2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-XML          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-CSS          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +140,9 @@ JSON         5 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
