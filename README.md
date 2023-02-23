@@ -1,4 +1,4 @@
-[![ZikaZaki's GitHub Banner](./assets/GitHubBanner.png)](https://github.com/zikazaki/zikazaki)
+[![ZikaZaki's GitHub Banner](./assets/LinkedInCover.png)](https://github.com/zikazaki/zikazaki)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ZikaZaki)
@@ -45,12 +45,9 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   17 hrs 53 mins  ████████████████░░░░░░░░░   63.36 %
-CSS          6 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-Markdown     2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-JSON         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JavaScript   37 hrs 15 mins  ███████████████████████░░   92.04 %
+Ruby         2 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
@@ -147,9 +144,9 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
