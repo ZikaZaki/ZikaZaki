@@ -26,8 +26,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -44,9 +42,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   27 hrs 15 mins  ██████████████████████▓░░   90.30 %
-Ruby         2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -143,9 +139,9 @@ Other        11 mins         ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
