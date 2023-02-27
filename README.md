@@ -26,8 +26,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -44,10 +42,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 hrs 3 mins   ██████████████████████░░░   87.67 %
-Ruby         1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -144,7 +139,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
