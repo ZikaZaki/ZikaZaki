@@ -1,9 +1,8 @@
 [![ZikaZaki's GitHub Banner](./assets/LinkedInCover.png)](https://github.com/zikazaki/zikazaki)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ZikaZaki)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zakariyaalkhamisisap)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/zikazaki)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki&left_color=gray&right_color=648473)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=648473)](https://twitter.com/ZikaZaki)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=648473)](https://www.linkedin.com/in/zakariyaalkhamisisap)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=648473)](https://codepen.io/zikazaki)
 
 ### Hi there, I'm <a href="#" target="_blank">Zakariya Al-Khamisi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -21,7 +20,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 - ❔ Give it a try & ask me about anything in tech I bet I will answer 😊
 - 💡 Fun fact: I love playing video games, cooking, & coding
 - 🎹 Would love: To know how to play piano
-- 📫 How to reach me: [Email](mailto:ziiikoooo2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zakariyaalkhamisisap) | [Twitter](https://twitter.com/ZikaZaki)
+- 📫 How to reach me: [Email](mailto:ziiikoooo2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zikazaki) | [Twitter](https://twitter.com/ZakariyaKhamisi)
  
 ----
 
@@ -45,9 +44,11 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   37 hrs 15 mins  ███████████████████████░░   92.04 %
-Ruby         2 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript   10 hrs 35 mins  ████████████████████████░   96.12 %
+Ruby         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
@@ -144,7 +145,7 @@ Other        11 mins         ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
 > <p>- Andy Bernard</p>
 
