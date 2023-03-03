@@ -78,11 +78,9 @@ No coding activity tracked this week
 ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![GitLab](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-
 ![Selenium](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=4AB197)
 ![PyTest](https://img.shields.io/badge/Test-PyTest-informational?style=flat&logo=PyTest&logoColor=white&color=4AB197)
 ![Jest](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=Jest&logoColor=white&color=4AB197)
-
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![Tailwind](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
@@ -95,15 +93,31 @@ No coding activity tracked this week
 
 <p>
 
-<a href="https://github.com/ZikaZaki/Django-Blog">
-  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=django-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/ZikaZaki/vespa-frontend">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=vespa-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/ZikaZaki/todo-list">
-  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=Todo-List&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/ZikaZaki/mybudget">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=mybudget&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/ZikaZaki/awesome-books">
+<a href="https://github.com/ZikaZaki/recipe-stash">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=recipe-stash&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/countries-info">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=countries-info&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/meals-lover">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=meals-lover&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ZikaZaki/space-hub">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=space-hub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<!-- <a href="https://github.com/ZikaZaki/awesome-books">
   <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=awesome-books&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -117,7 +131,7 @@ No coding activity tracked this week
 
 <a href="https://github.com/ZikaZaki/Python-OPP">
   <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zikazaki&repo=Python-OPP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 
 </p>
 
