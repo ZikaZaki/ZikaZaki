@@ -14,8 +14,8 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## More about me ❤ 
 
-- 📚 I’m currently working on Python & Django, OpenSource Projects
-- 🔭 I’m currently learning React, Ruby, & Blockchain Development
+- 📚 I’m currently working on Django, Ruby on Rails, & React OpenSource Projects
+- 🔭 I’m currently learning Blockchain Development
 - 🙋‍♂️ I’m looking to collaborate & contribute to OpenSource projects
 - ❔ Give it a try & ask me about anything in tech I bet I will answer 😊
 - 💡 Fun fact: I love playing video games, cooking, & coding
@@ -26,8 +26,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -44,10 +42,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 hrs 35 mins  ████████████████████████░   96.36 %
-Ruby         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -158,9 +153,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
