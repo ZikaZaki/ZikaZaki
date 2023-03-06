@@ -26,8 +26,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -44,12 +42,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 22 mins   ██████████████████████▒░░   89.76 %
-Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Ruby         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -160,9 +153,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
 >
-> <p>- Pam Beesly</p>
+> <p>- Darryl Philbin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
