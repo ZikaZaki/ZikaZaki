@@ -26,8 +26,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -155,9 +153,9 @@ No coding activity tracked this week
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
-> <p>- Angela Martin</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
