@@ -1,4 +1,11 @@
-[![ZikaZaki's GitHub Banner](./assets/LinkedInCover.png)](https://github.com/zikazaki/zikazaki)
+<div align="center">
+  <img src="zikazaki-logo.svg" alt="logo" width="720"  height="auto" />
+  <br/>
+
+  <h3><b>FULL-STACK DEVELOPER</b></h3>
+
+</div>
+<!-- [![ZikaZaki's GitHub Banner](./assets/LinkedInCover.png)](https://github.com/zikazaki/zikazaki) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki&left_color=gray&right_color=648473)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=648473)](https://twitter.com/ZikaZaki)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=648473)](https://www.linkedin.com/in/zakariyaalkhamisisap)
@@ -26,8 +33,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -44,12 +49,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   41 mins         ████████████████████░░░░░   80.37 %
-JSON         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -160,9 +160,9 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Kevin Malone</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
