@@ -14,8 +14,8 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## More about me ❤ 
 
-- 📚 I’m currently working on Python & Django, OpenSource Projects
-- 🔭 I’m currently learning React, Ruby, & Blockchain Development
+- 📚 I’m currently working on Django, Ruby on Rails, & React OpenSource Projects
+- 🔭 I’m currently learning Blockchain Development
 - 🙋‍♂️ I’m looking to collaborate & contribute to OpenSource projects
 - ❔ Give it a try & ask me about anything in tech I bet I will answer 😊
 - 💡 Fun fact: I love playing video games, cooking, & coding
@@ -44,10 +44,12 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 hrs 35 mins  ████████████████████████░   96.36 %
-Ruby         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   41 mins         ████████████████████░░░░░   80.37 %
+JSON         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
@@ -158,9 +160,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Oscar Martinez</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
