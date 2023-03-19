@@ -3,6 +3,7 @@
   <br/>
 
   <h3><b>FULL-STACK DEVELOPER</b></h3>
+  <br/>
 
 </div>
 
