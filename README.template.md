@@ -1,4 +1,11 @@
-[![ZikaZaki's GitHub Banner](./assets/LinkedInCover.png)](https://github.com/zikazaki/zikazaki)
+<div align="center">
+  <img src="zikazaki-logo.svg" alt="logo" width="720"  height="auto" />
+  <br/>
+
+  <h3><b>FULL-STACK DEVELOPER</b></h3>
+
+</div>
+<!-- [![ZikaZaki's GitHub Banner](./assets/LinkedInCover.png)](https://github.com/zikazaki/zikazaki) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki&left_color=gray&right_color=648473)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=648473)](https://twitter.com/ZikaZaki)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=648473)](https://www.linkedin.com/in/zakariyaalkhamisisap)
