@@ -35,8 +35,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -53,12 +51,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 37 mins   █████████████████░░░░░░░░   67.58 %
-JavaScript   1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-JSON         47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-Markdown     33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-XML          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -169,9 +162,9 @@ YAML         10 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
