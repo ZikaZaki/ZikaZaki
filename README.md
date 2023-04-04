@@ -53,7 +53,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-No coding activity tracked this week
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
