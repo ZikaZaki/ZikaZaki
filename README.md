@@ -53,7 +53,8 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-No coding activity tracked this week
+Bash                21 mins         █████████░░░░░░░░░░░░░░░░   36.04 %
+Other               13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
 ```
 
 <!--END_SECTION:waka-->
