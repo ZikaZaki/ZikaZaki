@@ -35,8 +35,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -53,8 +51,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Debian Sourcelist   9 mins          ███████████████████████▓░   94.45 %
-Python              0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -165,9 +162,9 @@ Python              0 secs          █▒░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
