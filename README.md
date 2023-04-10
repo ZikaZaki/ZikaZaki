@@ -35,8 +35,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -53,8 +51,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-Bash                21 mins         █████████░░░░░░░░░░░░░░░░   36.04 %
-Other               13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -165,9 +162,9 @@ Other               13 mins         █████▓░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
