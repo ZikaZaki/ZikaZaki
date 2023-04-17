@@ -35,8 +35,6 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is programming art ?](https://dev.to/zikazaki/is-programming-art--1n5e)
-- [Welcome Post](https://dev.to/zikazaki/welcome-post-18jn)
 <!-- BLOG-POST-LIST:END -->
 
 📈 **My GitHub Stats:**
@@ -53,11 +51,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 23 mins   ███████████▓░░░░░░░░░░░░░   46.82 %
-Bash         2 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.30 %
-JSON         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Ruby         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+No coding activity tracked this week
 ```
 
 <!--END_SECTION:waka-->
@@ -168,9 +162,9 @@ Other        13 mins         ▓░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
 >
-> <p>- Kevin Malone</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
