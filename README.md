@@ -14,7 +14,6 @@
  <!-- Previous Visitors Badge -->
  <!-- [Visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki&left_color=gray&right_color=648473) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki&left_color=gray&right_color=648473)
 [![Profile-Visitors](https://api.visitor.plantree.me/visitor-badge/pv?style=flat&namespace=zikazaki.com&key=index.html&label=Profile&color=E7403C)](https://www.zikazaki.com/)
 ![GitHub-Visitors](https://api.visitor.plantree.me/visitor-badge/pv?namespace=https://github.com/ZikaZaki&key=README.md&style=flat&label=Visitors&color=648473)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=648473)](https://twitter.com/ZikaZaki)
