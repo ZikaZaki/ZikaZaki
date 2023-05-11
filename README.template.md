@@ -160,7 +160,7 @@ No coding activity tracked this week
 
 <br>
 
-## 📣 How about an Office quote before you go?
+<!-- ## 📣 How about an Office quote before you go?
 
 > {office_quote}
 >
@@ -168,6 +168,6 @@ No coding activity tracked this week
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
-Check back at the top of the hour for a new quote!
+Check back at the top of the hour for a new quote! -->
 
 <br>
