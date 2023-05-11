@@ -8,7 +8,14 @@
 </div>
 
 <!-- [![ZikaZaki's GitHub Banner](./assets/LinkedInCover.png)](https://github.com/zikazaki/zikazaki) -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki&left_color=gray&right_color=648473)
+<!-- ZikaZaki Logo Badge
+[![ZikaZaki-Logo](https://custom-icon-badges.demolab.com/badge/Profile-Info?logo=zikazaki&color=648473)](https://api.visitor.plantree.me/visitor-badge/pv?style=flat&namespace=zikazaki.com&key=index.html&color=E7403C)
+ -->
+ <!-- Previous Visitors Badge -->
+ <!-- [Visitors](https://visitor-badge.glitch.me/badge?page_id=ZikaZaki&left_color=gray&right_color=648473) -->
+
+[![Profile-Visitors](https://api.visitor.plantree.me/visitor-badge/pv?style=flat&namespace=zikazaki.com&key=index.html&label=Profile&color=E7403C)](https://www.zikazaki.com/)
+![GitHub-Visitors](https://api.visitor.plantree.me/visitor-badge/pv?namespace=https://github.com/ZikaZaki&key=README.md&style=flat&label=Visitors&color=648473)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=648473)](https://twitter.com/ZikaZaki)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=648473)](https://www.linkedin.com/in/zakariyaalkhamisisap)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=648473)](https://codepen.io/zikazaki)
