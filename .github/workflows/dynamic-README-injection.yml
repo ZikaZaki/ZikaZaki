@@ -31,8 +31,8 @@ jobs:
 
       - name: Commit Changes
         run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "Your E-Mail"
+          git config --global user.name "ZikaZaki"
+          git config --global user.email "17160061@su.edu.ye"
           git commit -a -m "[Automated] README updated with new Office quote!"
 
       - name: Push Changes
