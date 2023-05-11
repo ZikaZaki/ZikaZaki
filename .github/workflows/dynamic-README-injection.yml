@@ -41,9 +41,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v1
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          node-version: 14.6.0
           # Replace this URL with your rss feed URL/s
           max_post_count: "4"
           feed_list: "https://dev.to/feed/zikazaki"
