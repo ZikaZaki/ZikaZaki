@@ -21,8 +21,8 @@ jobs:
       - run: node .
 
       - name: Add to git repo
+          # git config pull.rebase false <= this was below run:
         run: |
-          git config pull.rebase false
           git pull
           git add .
           git config --global user.name "Your Name"
