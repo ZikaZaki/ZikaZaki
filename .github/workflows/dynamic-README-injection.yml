@@ -30,9 +30,9 @@ jobs:
           git add .
 
       - name: Commit Changes
-          # git config --global user.name "ZikaZaki"
-          # # git config --global user.email "17160061@su.edu.ye"
         run: |
+          git config user.name "ZikaZaki"
+          git config user.email "17160061@su.edu.ye"
           git commit -a -m "[Automated] README updated with new Office quote!"
 
       - name: Push Changes
