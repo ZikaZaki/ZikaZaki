@@ -20,19 +20,39 @@ jobs:
 
       - run: node .
 
-      - name: Add to git repo
+      - name: Pull Changes
         run: |
           git config pull.rebase false
           git pull
+
+      - name: Add Changes
+        run: |
           git add .
+
+      - name: Commit Changes
+        run: |
           git config --global user.name "Your Name"
           git config --global user.email "Your E-Mail"
           git commit -a -m "[Automated] README updated with new Office quote!"
-      - name: Push
+
+      - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
-          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
-          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      #   run: |
+      #     git config pull.rebase false
+      #     git pull
+      #     git add .
+      #     git config --global user.name "Your Name"
+      #     git config --global user.email "Your E-Mail"
+      #     git commit -a -m "[Automated] README updated with new Office quote!"
+      # - name: Push
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
+      #     # ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
   update-readme-with-blog:
     needs: get-office-quotes
