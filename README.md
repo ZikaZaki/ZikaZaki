@@ -60,11 +60,11 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 23 mins   ████████████░░░░░░░░░░░░░   47.69 %
-YAML         1 hr 23 mins    ███████░░░░░░░░░░░░░░░░░░   27.77 %
-Markdown     1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JavaScript   2 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   37.53 %
+Markdown     2 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   36.12 %
+YAML         1 hr 29 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+XML          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
