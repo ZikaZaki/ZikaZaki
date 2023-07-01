@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="zikazaki-logo.svg" alt="logo" width="720"  height="auto" />
+<!--   <img src="zikazaki-logo.svg" alt="logo" width="720"  height="auto" /> -->
+  <img src="Mediamodifier-Design.svg" alt="logo" width="720"  height="auto" />
   <br/>
 
   <h3><b>FULL-STACK DEVELOPER</b></h3>
