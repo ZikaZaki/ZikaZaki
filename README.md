@@ -2,7 +2,7 @@
   <img src="zikazaki-logo.svg" alt="logo" width="720"  height="auto" />
   <br/>
 
-  <h3><b>FULL-STACK DEVELOPER</b></h3>
+ <!-- <h3><b>FULL-STACK DEVELOPER</b></h3> -->
   <br/>
 
 </div>
