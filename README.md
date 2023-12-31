@@ -60,11 +60,11 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       11 hrs 37 mins  ██████████████████████▓░░   90.47 %
-CSS          1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Vue.js       4 hrs 39 mins   ████████████████████▓░░░░   83.15 %
+JSON         33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+JavaScript   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
