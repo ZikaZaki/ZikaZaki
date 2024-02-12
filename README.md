@@ -60,11 +60,11 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.51 %
-Java         3 hrs 41 mins   ████████▒░░░░░░░░░░░░░░░░   33.90 %
-JSON         1 hr 52 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-YAML         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Java         3 hrs 54 mins   ██████████▓░░░░░░░░░░░░░░   42.82 %
+JSON         3 hrs           ████████▒░░░░░░░░░░░░░░░░   33.06 %
+Python       1 hr 58 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
