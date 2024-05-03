@@ -60,10 +60,10 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```txt
-Go      2 hrs 25 mins   ████████████████████████▓   98.79 %
-Java    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go      6 hrs 18 mins   █████████████████████████   99.53 %
+Java    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
