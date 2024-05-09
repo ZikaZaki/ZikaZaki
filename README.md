@@ -60,7 +60,7 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 <!--START_SECTION:waka-->
 
 ```txt
-Go   8 hrs 31 mins   █████████████████████████   100.00 %
+Go   6 hrs 58 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
