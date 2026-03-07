@@ -30,8 +30,7 @@ I am a **Software Engineer**, passionate programmer and a big admirer of open so
 
 ## More about me ❤ 
 
-- 📚 I’m currently working on Django, Ruby on Rails, & React OpenSource Projects
-- 🔭 I’m currently learning Blockchain Development
+- 📚 I’m currently working on AI-Powered Projects
 - 🙋‍♂️ I’m looking to collaborate & contribute to OpenSource projects
 - ❔ Give it a try & ask me about anything in tech I bet I will answer 😊
 - 💡 Fun fact: I love playing video games, cooking, & coding
