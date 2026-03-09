@@ -59,11 +59,11 @@ I am a **Software Engineer**, passionate programmer and a big admirer of open so
 <!--START_SECTION:waka-->
 
 ```txt
-Python       21 hrs 29 mins        ██████████████████████▒░░   89.20 %
-TOML         1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JSON         39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Text         23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Markdown     11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Python     10 hrs 50 mins        ██████████████████████░░░   87.42 %
+TOML       51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Text       23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+JSON       10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Markdown   8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
