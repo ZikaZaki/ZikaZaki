@@ -59,7 +59,11 @@ I am a **Software Engineer**, passionate programmer and a big admirer of open so
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       1 hr 53 mins          ██████████████████░░░░░░░   72.36 %
+YAML         15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Makefile     11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+INI          11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
