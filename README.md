@@ -59,11 +59,7 @@ I am a **Software Engineer**, passionate programmer and a big admirer of open so
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       1 hr 6 mins           ██████████░░░░░░░░░░░░░░░   39.35 %
-Python     58 mins               ████████▓░░░░░░░░░░░░░░░░   34.84 %
-JSON       26 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Docker     15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Makefile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+YAML   7 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
