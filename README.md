@@ -59,11 +59,11 @@ I am a **Software Engineer**, passionate programmer and a big admirer of open so
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          14 hrs 48 mins        █████████░░░░░░░░░░░░░░░░   36.58 %
-JavaScript   11 hrs 3 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.32 %
-Mustache     8 hrs 38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
-Markdown     2 hrs 39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-CSS          1 hr 36 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+PHP          13 hrs 49 mins        █████████▒░░░░░░░░░░░░░░░   37.17 %
+JavaScript   8 hrs 40 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
+Mustache     5 hrs 52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+YAML         4 hrs 2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Markdown     2 hrs 44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
 ```
 
 <!--END_SECTION:waka-->
